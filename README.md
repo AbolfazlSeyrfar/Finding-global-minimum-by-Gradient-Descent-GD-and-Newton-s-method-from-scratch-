@@ -1,0 +1,1 @@
+# Finding-global-minimum-by-Gradient-Descent-GD-and-Newton-s-method-from-scratch-
