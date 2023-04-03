@@ -1,6 +1,6 @@
 # Finding global minimum by Gradient Descent (GD) and Newton's method from scratch
 
-Implement the gradient descent method and Newton's method to find the global minimum for the below function:
+Implement the gradient descent method and Newton's method to find the global minimum for the function shown below :
 
 ![image](https://user-images.githubusercontent.com/97136976/148149369-380d5d20-c0e4-433c-a361-fbc03224e59e.png)
 
